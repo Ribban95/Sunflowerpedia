@@ -3,3 +3,12 @@ body {
     Margin: auto;
     text-align: center;
 }  
+
+#Inledning {
+    Border: 15px solid beige;
+    Padding: 50px 100px 50px 100px;
+    background-color: beige;
+    font-family:  Georgia;
+    color: orange;
+    border-radius: 2%;
+}
