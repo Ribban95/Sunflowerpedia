@@ -12,3 +12,8 @@ body {
     color: orange;
     border-radius: 2%;
 }
+
+h2 {
+    font-style: italic;
+}
+
